@@ -34,4 +34,7 @@ HTML and CSS
 
 ## Experience:
 I work as a junior manual testing specialist at Yandex. I want to become a developer there.
+## Languages:
+* Russian - native
+* English – A2 (Glory School
 
