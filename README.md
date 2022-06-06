@@ -1,1 +1,1 @@
-# rsschool-cv
+https://akaitsumi.github.io/rsschool-cv/cv
